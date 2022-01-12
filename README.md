@@ -6,6 +6,19 @@
 
 <img src="https://latex.codecogs.com/svg.image?1)100I_{1}&plus;50I_{2}=30\\2)75I_{1}&plus;90I{2}=15&space;" title="1)100I_{1}+50I_{2}=30\\2)75I_{1}+90I{2}=15 " />
 
+**Despejar  I1 en (1) y reemplazar en 2**
+
+(3)<img src="https://latex.codecogs.com/svg.image?I_{1}=\frac{30-50I_{2}}{100}&space;" title="I_{1}=\frac{30-50I_{2}}{100} " />
+
+
+
+
+**Reemplazar I2 en 1**
+
+
+
+
+
 
 **7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:**
 
