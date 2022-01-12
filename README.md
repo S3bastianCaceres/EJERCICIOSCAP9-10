@@ -31,21 +31,20 @@
 
 **1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?**
 
-
-
-
-
-
-
+Disminuye
 
 
 **7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750 x 10^6 Wb/At·m?**
 
+**Datos**
 
+<img src="https://latex.codecogs.com/svg.image?\mu&space;=750\times&space;10^{-6}Wb/Atm" title="\mu =750\times 10^{-6}Wb/Atm" />
 
+<img src="https://latex.codecogs.com/svg.image?\mu&space;_{0}=4\pi&space;\times&space;10^{-7}Wb/Atm" title="\mu _{0}=4\pi \times 10^{-7}Wb/Atm" />
 
+**Solucion**
 
-
+<img src="https://latex.codecogs.com/svg.image?\mu&space;_{0}=\frac{\mu&space;}{\mu_{0}}=\frac{750\times&space;10^{-6}}{4\pi&space;\times&space;10^{-7}}=597.13" title="\mu _{0}=\frac{\mu }{\mu_{0}}=\frac{750\times 10^{-6}}{4\pi \times 10^{-7}}=597.13" />
 
 
 **13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina**
@@ -53,20 +52,16 @@
 [![figura-4.png](https://i.postimg.cc/Px7Qwp4K/figura-4.png)](https://postimg.cc/S2W90KHz)
 
 
-
-
-
-
-
+Fuerzas producidas por la interacción del capo electromagnetico y el campo magnetico permanente
 
 
 **19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?**
 
 
-
-
-
-
+La intensidad del campo mágnetico, la longitud del conductor expuesta al campo, y la velocidad de rotaxión del conductor
 
 
 *** 25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.**
+
+
+[![ej25.png](https://i.postimg.cc/cLsDY1J2/ej25.png)](https://postimg.cc/gnTqbW8H)
