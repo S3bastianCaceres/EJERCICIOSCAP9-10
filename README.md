@@ -31,8 +31,32 @@
 
 <img src="https://latex.codecogs.com/svg.image?1)2I_{1}-6I_{2}&plus;10I_{3}=9\\2)3I_{1}&plus;7I_{2}-8I_{3}=3\\3)10I_{1}&plus;5I_{2}-12I_{3}=0&space;" title="1)2I_{1}-6I_{2}+10I_{3}=9\\2)3I_{1}+7I_{2}-8I_{3}=3\\3)10I_{1}+5I_{2}-12I_{3}=0 " />
 
+**Determinante de delta**
+
+<img src="https://latex.codecogs.com/svg.image?Det(I_{1})&space;=\begin{vmatrix}&space;2&&space;&space;-6&&space;&space;10\\3&space;&7&space;&space;&-8&space;&space;\\10&space;&&space;5&space;&-12&space;&space;\\\end{vmatrix}=-374" title="Det(I_{1}) =\begin{vmatrix} 2& -6& 10\\3 &7 &-8 \\10 & 5 &-12 \\\end{vmatrix}=-374" />
+
+**Determinante de I1**
+
+<img src="https://latex.codecogs.com/svg.image?Det(I_{1})&space;=\begin{vmatrix}&space;9&&space;&space;-6&&space;&space;10\\3&space;&7&space;&space;&-8&space;&space;\\0&space;&&space;5&space;&-12&space;&space;\\\end{vmatrix}=-462" title="Det(I_{1}) =\begin{vmatrix} 9& -6& 10\\3 &7 &-8 \\0 & 5 &-12 \\\end{vmatrix}=-462" />
+
+**Determinante de I2**
+
+<img src="https://latex.codecogs.com/svg.image?Det(I_{2})&space;=\begin{vmatrix}&space;2&&space;&space;9&&space;&space;10\\3&space;&3&space;&space;&-8&space;&space;\\10&space;&&space;0&space;&-12&space;&space;\\\end{vmatrix}=-768" title="Det(I_{2}) =\begin{vmatrix} 2& 9& 10\\3 &3 &-8 \\10 & 0 &-12 \\\end{vmatrix}=-768" />
+
+**Determinante de I3**
+
+<img src="https://latex.codecogs.com/svg.image?Det(I_{3})&space;=\begin{vmatrix}&space;2&&space;&space;-6&&space;&space;10\\3&space;&7&space;&space;&-8&space;&space;\\10&space;&&space;5&space;&-12&space;&space;\\\end{vmatrix}=-705" title="Det(I_{3}) =\begin{vmatrix} 2& -6& 10\\3 &7 &-8 \\10 & 5 &-12 \\\end{vmatrix}=-705" />
 
 
+**Para I1**
+
+<img src="https://latex.codecogs.com/svg.image?I_{1}=\frac{Det(I_{1})}{\Delta&space;}=\frac{-462}{-374}=1.23A" title="I_{1}=\frac{Det(I_{1})}{\Delta }=\frac{-462}{-374}=1.23A" />
+
+**Para I2**
+
+<img src="https://latex.codecogs.com/svg.image?I_{2}=\frac{Det(I_{2})}{\Delta&space;}=\frac{-768}{-374}=2.05A" title="I_{2}=\frac{Det(I_{2})}{\Delta }=\frac{-768}{-374}=2.05A" />
+
+**Para I3**
 
 
 
