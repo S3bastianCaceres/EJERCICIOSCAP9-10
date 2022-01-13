@@ -33,7 +33,7 @@
 
 **Determinante de delta**
 
-<img src="https://latex.codecogs.com/svg.image?Det(I_{1})&space;=\begin{vmatrix}&space;2&&space;&space;-6&&space;&space;10\\3&space;&7&space;&space;&-8&space;&space;\\10&space;&&space;5&space;&-12&space;&space;\\\end{vmatrix}=-374" title="Det(I_{1}) =\begin{vmatrix} 2& -6& 10\\3 &7 &-8 \\10 & 5 &-12 \\\end{vmatrix}=-374" />
+<img src="https://latex.codecogs.com/svg.image?Det(\Delta&space;)=\begin{vmatrix}&space;2&-6&space;&space;&&space;10&space;\\&space;3&&space;&space;7&&space;-8&space;\\&space;10&&space;&space;5&-12&space;&space;\\\end{vmatrix}=-374" title="Det(\Delta )=\begin{vmatrix} 2&-6 & 10 \\ 3& 7& -8 \\ 10& 5&-12 \\\end{vmatrix}=-374" />
 
 **Determinante de I1**
 
