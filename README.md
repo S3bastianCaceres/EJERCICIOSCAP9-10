@@ -238,9 +238,7 @@ EJERCICIOS - LABORATORIO 6
 **Cuando RL=820 OHMS**
 
 
-
-
-
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;820\Omega}=0,00742A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0,00742A)^{2}(820\Omega)=0,045W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 820\Omega}=0,00742A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0,00742A)^{2}(820\Omega)=0,045W " />
 
 
 
@@ -248,7 +246,7 @@ EJERCICIOS - LABORATORIO 6
 
 
 
-
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;1000\Omega}=0,00681A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0,00681A)^{2}(1000\Omega)=0,0464W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 1000\Omega}=0,00681A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0,00681A)^{2}(1000\Omega)=0,0464W " />
 
 
 
@@ -257,7 +255,7 @@ EJERCICIOS - LABORATORIO 6
 **Cuando RL=1500 OHMS**
 
 
-
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;1500\Omega}=0.0055A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.0055A)^{2}(1500\Omega)=0.046W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 1500\Omega}=0.0055A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.0055A)^{2}(1500\Omega)=0.046W " />
 
 
 
