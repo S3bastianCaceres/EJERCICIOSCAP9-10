@@ -178,3 +178,45 @@ La intensidad del campo mágnetico, la longitud del conductor expuesta al campo,
 
 
 [![ej25.png](https://i.postimg.cc/cLsDY1J2/ej25.png)](https://postimg.cc/gnTqbW8H)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJERCICIOS - LABORATORIO 6
+
+
+**Cuando RL=220 OHMS**
+
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}-R{L}}=\frac{15&space;V}{1200\Omega&space;-&space;220\Omega}=0,01056mA\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.01056mA)^{2}(220\Omega)=0.024W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}-R{L}}=\frac{15 V}{1200\Omega - 220\Omega}=0,01056mA\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.01056mA)^{2}(220\Omega)=0.024W " />
