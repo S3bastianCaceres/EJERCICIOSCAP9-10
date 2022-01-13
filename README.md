@@ -220,3 +220,81 @@ EJERCICIOS - LABORATORIO 6
 **Cuando RL=220 OHMS**
 
 <img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}-R{L}}=\frac{15&space;V}{1200\Omega&space;-&space;220\Omega}=0,01056A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.01056A)^{2}(220\Omega)=0.024W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}-R{L}}=\frac{15 V}{1200\Omega - 220\Omega}=0,01056A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.01056A)^{2}(220\Omega)=0.024W " />
+
+
+
+**Cuando RL=470 OHMS**
+
+
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}-R{L}}=\frac{15&space;V}{1200\Omega&space;-&space;470\Omega}=0,02054A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0,02054A)^{2}(470\Omega)=0.198W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}-R{L}}=\frac{15 V}{1200\Omega - 470\Omega}=0,02054A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0,02054A)^{2}(470\Omega)=0.198W " />
+
+
+
+
+
+**Cuando RL=680 OHMS**
+
+
+
+
+
+
+**Cuando RL=820 OHMS**
+
+
+
+
+
+
+
+
+**Cuando RL=1000 OHMS**
+
+
+
+
+
+
+
+
+
+**Cuando RL=1500 OHMS**
+
+
+
+
+
+
+
+
+**Cuando RL=1800 OHMS**
+
+
+
+
+
+
+
+
+
+**Cuando RL=2200 OHMS**
+
+
+
+
+
+
+
+
+**Cuando RL=3900 OHMS**
+
+
+
+
+
+
+
+
+
+
+**Cuando RL=4700 OHMS**
