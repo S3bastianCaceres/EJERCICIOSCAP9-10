@@ -8,7 +8,7 @@
 
 **Despejar  I1 en (1) y reemplazar en 2**
 
-(3)<img src="https://latex.codecogs.com/svg.image?I_{1}=\frac{30-50I_{2}}{100}&space;" title="I_{1}=\frac{30-50I_{2}}{100} " />
+(3) <img src="https://latex.codecogs.com/svg.image?I_{1}=\frac{30-50I_{2}}{100}&space;" title="I_{1}=\frac{30-50I_{2}}{100} " />
 
 
 
