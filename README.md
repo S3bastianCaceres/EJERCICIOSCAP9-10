@@ -281,5 +281,5 @@ EJERCICIOS - LABORATORIO 6
 
 **Cuando RL=4700 OHMS**
 
-<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;4700\Omega=0.00254A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.00254A)^{2}(4700\Omega)=0.0304W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 4700\Omega=0.00254A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.00254A)^{2}(4700\Omega)=0.0304W " />
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;4700\Omega}=0.00254A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.00254A)^{2}(4700\Omega)=0.0304W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 4700\Omega}=0.00254A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.00254A)^{2}(4700\Omega)=0.0304W " />
 
