@@ -12,12 +12,17 @@
 
 <img src="https://latex.codecogs.com/svg.image?I_{1}=\frac{30-50I_{2}}{100}&space;" title="I_{1}=\frac{30-50I_{2}}{100} " />
 
+(3) en (2)
 
+<img src="https://latex.codecogs.com/svg.image?75\left&space;[&space;\frac{30-50I_{2}}{100}&space;&space;\right&space;]&plus;90I_{2}=15" title="75\left [ \frac{30-50I_{2}}{100} \right ]+90I_{2}=15" />
 
+<img src="https://latex.codecogs.com/svg.image?\frac{90}{4}-\frac{150I_{2}}{4}&plus;90I_{2}=15" title="\frac{90}{4}-\frac{150I_{2}}{4}+90I_{2}=15" />
+
+<img src="https://latex.codecogs.com/svg.image?I_{2}=-\frac{1}{7}A" title="I_{2}=-\frac{1}{7}A" />
 
 **Reemplazar I2 en 1**
 
-
+<img src="https://latex.codecogs.com/svg.image?100I_{1}&plus;50I_{2}=30\\100I_{1}=30&plus;50\left&space;(&space;\frac{1}{7}&space;\right&space;)\\I_{1}=0.34A&space;" title="100I_{1}+50I_{2}=30\\100I_{1}=30+50\left ( \frac{1}{7} \right )\\I_{1}=0.34A " />
 
 
 
