@@ -259,25 +259,17 @@ EJERCICIOS - LABORATORIO 6
 
 
 
-
-
 **Cuando RL=1800 OHMS**
 
 
-
-
-
-
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;1800\Omega}=0.005A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.005A)^{2}(1800\Omega)=0.045W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 1800\Omega}=0.005A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.005A)^{2}(1800\Omega)=0.045W " />
 
 
 
 **Cuando RL=2200 OHMS**
 
 
-
-
-
-
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;2200\Omega}=0.004411A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.004411A)^{2}(2200\Omega)=0.0428W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 2200\Omega}=0.004411A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.004411A)^{2}(2200\Omega)=0.0428W " />
 
 
 **Cuando RL=3900 OHMS**
