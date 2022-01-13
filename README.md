@@ -226,9 +226,7 @@ EJERCICIOS - LABORATORIO 6
 **Cuando RL=470 OHMS**
 
 
-<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}-R{L}}=\frac{15&space;V}{1200\Omega&space;-&space;470\Omega}=0,02054A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0,02054A)^{2}(470\Omega)=0.198W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}-R{L}}=\frac{15 V}{1200\Omega - 470\Omega}=0,02054A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0,02054A)^{2}(470\Omega)=0.198W " />
-
-
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}-R{L}}=\frac{15&space;V}{1200\Omega&space;-&space;470\Omega}=0,00898A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0,00898A)^{2}(470\Omega)=0,0379W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}-R{L}}=\frac{15 V}{1200\Omega - 470\Omega}=0,00898A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0,00898A)^{2}(470\Omega)=0,0379W " />
 
 
 
