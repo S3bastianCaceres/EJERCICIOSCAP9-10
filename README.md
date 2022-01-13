@@ -35,10 +35,47 @@
 
 [![figura-1.png](https://i.postimg.cc/rybfdbZc/figura-1.png)](https://postimg.cc/0rYYFtqH)
 
+
+**Circuito con sus polaridades**
+
+
+
+**Malla 1**
+
+<img src="https://latex.codecogs.com/svg.image?12=8.2(I_{1})&plus;10(I_{1}-I_{2})\\12=18.2I_{1}-10I_{2}&space;" title="12=8.2(I_{1})+10(I_{1}-I_{2})\\12=18.2I_{1}-10I_{2} " />
+
+**Malla 2**
+
+<img src="https://latex.codecogs.com/svg.image?-6=10(I_{2}-I_{1})&plus;5.6I_{2}\\-6=15.6I_{2}-10I_{1}&space;" title="-6=10(I_{2}-I_{1})+5.6I_{2}\\-6=15.6I_{2}-10I_{1} " />
+
+**Resolviendo el sistemna de ecuaciones**
+
+<img src="https://latex.codecogs.com/svg.image?I_{1}=0.69&space;A\\I_{2}=0.059&space;A&space;" title="I_{1}=0.69 A\\I_{2}=0.059 A " />
+
+**Cídas de voltaje**
+
+<img src="https://latex.codecogs.com/svg.image?V_{1}=8.2(0.69)=5.65V\\V_{2}=10(0.69-0.058)=6.32V\\V_{3}=5.6(0.058)=0.325V=325mV&space;" title="V_{1}=8.2(0.69)=5.65V\\V_{2}=10(0.69-0.058)=6.32V\\V_{3}=5.6(0.058)=0.325V=325mV " />
+
 **19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.**
 
 
 [![figura-2.png](https://i.postimg.cc/L8FvDPMb/figura-2.png)](https://postimg.cc/CzJjLz5G)
+
+**Circuito con sus polaridades**
+
+
+
+**Malla 1**
+
+<img src="https://latex.codecogs.com/svg.image?-4-2=1000I_{1}&plus;560(I_{1}-I_{2})\\-6=1560I_{1}-560I_{2}\\&space;" title="-4-2=1000I_{1}+560(I_{1}-I_{2})\\-6=1560I_{1}-560I_{2}\\ " />
+
+**Malla 2**
+
+<img src="https://latex.codecogs.com/svg.image?-6&plus;4=560(I_{2}-I_{1})&plus;820I_{2}\\-2=1380I_{2}-560&space;I_{1}" title="-6+4=560(I_{2}-I_{1})+820I_{2}\\-2=1380I_{2}-560 I_{1}" />
+
+**Cídas de voltaje**
+
+<img src="https://latex.codecogs.com/svg.image?V_{1}=5.1V\\V_{2}=2.87V\\V_{3}=560(0.0051-0.0035)=896mV&space;" title="V_{1}=5.1V\\V_{2}=2.87V\\V_{3}=560(0.0051-0.0035)=896mV " />
 
 **25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31**
 
