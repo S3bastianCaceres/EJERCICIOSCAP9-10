@@ -44,7 +44,20 @@
 
 [![figura-3.png](https://i.postimg.cc/j52h2QzL/figura-3.png)](https://postimg.cc/YGcFyFDH)
 
+**MALLA DE LA CORRIENTE B**
 
+<img src="https://latex.codecogs.com/svg.image?15=3.3(I_{B}-I_{A})&plus;820(I_{B}-I_{C})\\15=4120I_{B}-3300I_{A}-820I_{C}" title="15=3.3(I_{B}-I_{A})+820(I_{B}-I_{C})\\15=4120I_{B}-3300I_{A}-820I_{C}" />
+
+
+**MALLA DE LA CORRIENTE C**
+
+<img src="https://latex.codecogs.com/svg.image?0=1500(I_{C}-I_{A})&plus;2200(I_{C})&plus;820(I_{C}-I_{B})\\0=4520I_{C}-1500I_{A}-820I_{B}&space;" title="0=1500(I_{C}-I_{A})+2200(I_{C})+820(I_{C}-I_{B})\\0=4520I_{C}-1500I_{A}-820I_{B} " />
+
+
+
+**MALLA DE LA CRRIENTE A**
+
+<img src="https://latex.codecogs.com/svg.image?0=680I_{A}&plus;1500(I_{A}-I_{C})&plus;3300(I_{A}-I_{B})\\0=5480I_{A}=-1500I_{C}-3300I_{B}&space;" title="0=680I_{A}+1500(I_{A}-I_{C})+3300(I_{A}-I_{B})\\0=5480I_{A}=-1500I_{C}-3300I_{B} " />
 
 
 <h3>CAPITULO 10</h3>
