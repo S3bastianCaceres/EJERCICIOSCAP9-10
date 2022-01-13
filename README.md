@@ -58,7 +58,7 @@
 
 **Para I3**
 
-
+<img src="https://latex.codecogs.com/svg.image?I_{3}=\frac{Det(I_{3})}{\Delta&space;}=\frac{-705}{-374}=1.88A" title="I_{3}=\frac{Det(I_{3})}{\Delta }=\frac{-705}{-374}=1.88A" />
 
 
 
