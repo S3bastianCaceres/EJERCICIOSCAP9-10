@@ -218,7 +218,7 @@ EJERCICIOS - LABORATORIO 6
 
 
 
-<h3>Calculos matemáticos</h3>
+<h3>Cálculos matemáticos</h3>
 
 **<img src="https://latex.codecogs.com/svg.image?\textbf{-&space;Cuando&space;RL&space;=&space;220&space;ohms}&space;&space;" title="\textbf{- Cuando RL = 220 ohms} " />**
 
